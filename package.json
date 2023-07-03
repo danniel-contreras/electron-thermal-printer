@@ -18,5 +18,10 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^25.1.0"
+  },
+  "dependencies": {
+    "electron-pos-printer": "^1.3.7",
+    "electron-printer": "^0.0.5",
+    "node-pdf-printer": "^1.1.7"
   }
 }
